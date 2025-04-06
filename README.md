@@ -23,5 +23,3 @@ How to upload a file
 Commit changes
 
 Delete Repository
-
-## 3.0 PowerBi
